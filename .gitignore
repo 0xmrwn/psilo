@@ -1,3 +1,7 @@
+# IDE
+.cursor/
+.cursorignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +176,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Junk
+*.DS_Store
